@@ -40,18 +40,18 @@ def sms():
 
 def quotes():
     reasons = [
-            'Funny quote of the hour: The quickest way to double your money is to fold it in half and put it back in your pocket.',
-            'Funny quote of the hour: When Life Gives You Questions, Google has Answers',
-            'Funny quote of the hour: If at first you don\'t succeed, call it version 1.0.',
-            'Funny quote of the hour: Microsoft - You\'ve got questions. We\'ve got dancing paperclips.',
-            'Funny quote of the hour: There are 10 types of people in the world: those who understand binary, and those who don\'t.',
-            'Funny quote of the hour: I\'m not anti-social; I\'m just not user friendly',
-            'Funny quote of the hour: My software never has bugs. It just develops random features.',
-            'Funny quote of the hour: I would love to change the world, but they won\'t give me the source code.',
-            'Funny quote of the hour: Be nice to the nerds, you will probably end up working for them.',
-            'Funny quote of the hour: Artificial Intelligence is no match for Natural Stupidity.',
-            'Funny quote of the hour: A computer lets you make more mistakes faster than any invention in human history - with the possible exceptions of handguns and tequila.',
-            'Funny quote of the hour: In a world without fences and walls, who needs Gates and Windows?']
+            'Chess Quote of the hour: My love of dynamic complications often led me to avoid simplicity when perhaps it was the wisest choice.  -  Garry Kasparov',
+            'Funny quote of the hour: Haste is never more dangerous than when you feel that victory is in your grasp.  -  Eugene Znosko-Borovsky',
+            'Funny quote of the hour: One bad move nullifies forty good ones.  -  I.A. Horowitz',
+            'Funny quote of the hour: What would Chess be without silly mistakes?  -  Kurt Richter',
+            'Funny quote of the hour: My favourite victory is when it is not even clear where my opponent made a mistake.  -  Peter Leko',
+            'Funny quote of the hour: The winner of the game is the player who makes the next-to-last mistake.  -  Savielly Tartakower',
+            'Funny quote of the hour: The beauty of a move lies not in its appearance but in the thought behind it.  -  Aaron Nimzowitsch',
+            'Funny quote of the hour: Without error there can be no brilliancy.  -  Emanuel Lasker',
+            'Funny quote of the hour: The king is a strong piece - use it !  -  Rueben Fine',
+            'Funny quote of the hour: I detest the endgame. A well-played game should be practically decided in the middlegame.  -  David Janowski',
+            'Funny quote of the hour: Even the best grandmasters in the world have had to work hard to acquire the technique of rook endings.  -  Paul Keres',
+            'Funny quote of the hour: The endgame is an arena in which miraculous escapes are not uncommon.  -  Leonid Shamkovich']
     return choice(reasons)
 
 if __name__ == '__main__':
