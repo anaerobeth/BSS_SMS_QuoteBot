@@ -41,17 +41,17 @@ def sms():
 def quotes():
     reasons = [
             'Chess Quote of the hour: My love of dynamic complications often led me to avoid simplicity when perhaps it was the wisest choice.  -  Garry Kasparov',
-            'Funny quote of the hour: Haste is never more dangerous than when you feel that victory is in your grasp.  -  Eugene Znosko-Borovsky',
-            'Funny quote of the hour: One bad move nullifies forty good ones.  -  I.A. Horowitz',
-            'Funny quote of the hour: What would Chess be without silly mistakes?  -  Kurt Richter',
-            'Funny quote of the hour: My favourite victory is when it is not even clear where my opponent made a mistake.  -  Peter Leko',
-            'Funny quote of the hour: The winner of the game is the player who makes the next-to-last mistake.  -  Savielly Tartakower',
-            'Funny quote of the hour: The beauty of a move lies not in its appearance but in the thought behind it.  -  Aaron Nimzowitsch',
-            'Funny quote of the hour: Without error there can be no brilliancy.  -  Emanuel Lasker',
-            'Funny quote of the hour: The king is a strong piece - use it !  -  Rueben Fine',
-            'Funny quote of the hour: I detest the endgame. A well-played game should be practically decided in the middlegame.  -  David Janowski',
-            'Funny quote of the hour: Even the best grandmasters in the world have had to work hard to acquire the technique of rook endings.  -  Paul Keres',
-            'Funny quote of the hour: The endgame is an arena in which miraculous escapes are not uncommon.  -  Leonid Shamkovich']
+            'Chess Quote of the hour: Haste is never more dangerous than when you feel that victory is in your grasp.  -  Eugene Znosko-Borovsky',
+            'Chess Quote of the hour: One bad move nullifies forty good ones.  -  I.A. Horowitz',
+            'Chess Quote of the hour: What would Chess be without silly mistakes?  -  Kurt Richter',
+            'Chess Quote of the hour: My favourite victory is when it is not even clear where my opponent made a mistake.  -  Peter Leko',
+            'Chess Quote of the hour: The winner of the game is the player who makes the next-to-last mistake.  -  Savielly Tartakower',
+            'Chess Quote of the hour: The beauty of a move lies not in its appearance but in the thought behind it.  -  Aaron Nimzowitsch',
+            'Chess Quote of the hour: Without error there can be no brilliancy.  -  Emanuel Lasker',
+            'Chess Quote of the hour: The king is a strong piece - use it !  -  Rueben Fine',
+            'Chess Quote of the hour: I detest the endgame. A well-played game should be practically decided in the middlegame.  -  David Janowski',
+            'Chess Quote of the hour: Even the best grandmasters in the world have had to work hard to acquire the technique of rook endings.  -  Paul Keres',
+            'Chess Quote of the hour: The endgame is an arena in which miraculous escapes are not uncommon.  -  Leonid Shamkovich']
     return choice(reasons)
 
 if __name__ == '__main__':
